@@ -1,0 +1,3 @@
+2025-11-11 13:28:34,477 - data_ingestion - DEBUG - Data loaded from https://raw.githubusercontent.com/vikashishere/Datasets/refs/heads/main/spam.csv
+2025-11-11 13:28:34,492 - data_ingestion - DEBUG - Data preprocessing completed
+2025-11-11 13:28:34,515 - data_ingestion - DEBUG - Train and test data saved to ./data\raw
