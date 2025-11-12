@@ -1,0 +1,6 @@
+[core]
+    remote = dvcbucket
+['remote "dvcstore"']
+    url = s3://citizentrashbin
+['remote "dvcbucket"']
+    url = s3://citizenbintrash
